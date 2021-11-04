@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+tec<h1> Hello, Welcome to WeirdTechie !!! </h1>
 
